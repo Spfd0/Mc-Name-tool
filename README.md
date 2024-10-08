@@ -33,7 +33,7 @@ pip install requests colorama tqdm
 
 Run the script using Python:
 
-python minecraft_username_checker.py
+python mcname_2.0.py
 
 Follow the on-screen prompts to choose your preferred method of inputting usernames and view the results.
 
