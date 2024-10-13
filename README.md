@@ -1,6 +1,7 @@
 # Minecraft Username Availability Checker
 
-                                    ![minecraft](https://github.com/user-attachments/assets/c38d1ef5-5a58-4e01-bd6e-07896b72d872)
+![mcnametoolbanner](https://github.com/user-attachments/assets/f22f043d-3568-4f0a-8786-01d1bac38323)
+
 
 This Python script allows you to check the availability of Minecraft usernames using the Mojang API. It provides various options for inputting usernames and displays the results in a user-friendly format.
 
