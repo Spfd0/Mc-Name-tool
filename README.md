@@ -1,7 +1,7 @@
 # Minecraft Username Availability Checker
 
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+    <img width="200" src="https://i.ibb.co/LSKz0YD/minecraft.jpg" alt="Material Bread logo">
 </p>
 
 This Python script allows you to check the availability of Minecraft usernames using the Mojang API. It provides various options for inputting usernames and displays the results in a user-friendly format.
